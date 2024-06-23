@@ -1,0 +1,151 @@
+<mxfile host="65bd71144e">
+    <diagram id="coJP4GJAvsKHu4bRP_Qv" name="第1頁">
+        <mxGraphModel dx="1130" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="51" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="260" y="125" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="預約型買家   " style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="25" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="手機號碼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3">
+                    <mxGeometry x="65" y="40" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="姓名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3">
+                    <mxGeometry x="75" y="70" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="期望日期與時段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3">
+                    <mxGeometry x="45" y="100" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="填寫申請" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3">
+                    <mxGeometry x="65" y="130" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="提交申請" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3">
+                    <mxGeometry x="65" y="160" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value=" 申請" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="30" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="申請ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="13">
+                    <mxGeometry x="70" y="30" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="買家類型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="13">
+                    <mxGeometry x="65" y="60" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="申請狀態" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="13">
+                    <mxGeometry x="65" y="90" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="申請時間" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="13">
+                    <mxGeometry x="65" y="120" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="審核申請" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="13">
+                    <mxGeometry x="65" y="150" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="安排接待人員" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="13">
+                    <mxGeometry x="50" y="180" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" style="edgeStyle=none;html=1;" edge="1" parent="1" source="20">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="115" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" style="edgeStyle=none;html=1;" edge="1" parent="1" source="20" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="現場即時參觀買家  " style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="30" width="200" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="手機號碼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="20">
+                    <mxGeometry x="65" y="35" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="姓名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="20">
+                    <mxGeometry x="75" y="65" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="填寫申請" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="20">
+                    <mxGeometry x="65" y="95" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="提交申請" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="20">
+                    <mxGeometry x="65" y="125" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" style="edgeStyle=none;html=1;" edge="1" parent="1" source="25">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="380" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="代銷管理者  " style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="280" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="管理者ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="25">
+                    <mxGeometry x="65" y="30" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="姓名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="25">
+                    <mxGeometry x="75" y="60" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="聯絡電話" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="25">
+                    <mxGeometry x="65" y="90" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="審核申請" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="25">
+                    <mxGeometry x="65" y="120" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="安排接待人員" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="25">
+                    <mxGeometry x="50" y="150" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="32" target="39">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="接待人員" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="280" width="200" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="接待人員ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32">
+                    <mxGeometry x="60" y="25" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="聯絡電話" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32">
+                    <mxGeometry x="65" y="85" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="姓名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32">
+                    <mxGeometry x="75" y="55" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="接待買家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32">
+                    <mxGeometry x="65" y="115" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="39" target="44">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="通知" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="280" width="200" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="通知ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="39">
+                    <mxGeometry x="70" y="25" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="通知時間" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="39">
+                    <mxGeometry x="65" y="85" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="通知內容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="39">
+                    <mxGeometry x="65" y="55" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="推送通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="39">
+                    <mxGeometry x="65" y="115" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="系統 " style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="480" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="系統ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="44">
+                    <mxGeometry x="70" y="30" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="系統名稱" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="44">
+                    <mxGeometry x="65" y="65" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="處理申請" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="44">
+                    <mxGeometry x="65" y="95" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="推送通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="44">
+                    <mxGeometry x="65" y="125" width="70" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
